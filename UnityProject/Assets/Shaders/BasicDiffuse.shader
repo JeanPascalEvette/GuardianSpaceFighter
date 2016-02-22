@@ -9,7 +9,7 @@
 		LOD 200
 		
 		CGPROGRAM
-		#pragma surface surf Lambert alpha
+		#pragma surface surf Lambert
 
 		fixed4 _Color;
 		
@@ -22,8 +22,7 @@
 		{
 			fixed4 c = _Color;
 			o.Albedo = c.rgb;
-			o.Alpha = 1;
-			
+			o.Alpha = c.a;
 		}
 		ENDCG
 	} 

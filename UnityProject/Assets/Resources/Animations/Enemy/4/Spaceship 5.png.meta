@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: 174bce5a9c1ae5d4dace45be2c58f7bc
+timeCreated: 1455452816
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Spaceship 5_0
+    21300002: Spaceship 5_1
+    21300004: Spaceship 5_2
+    21300006: Spaceship 5_3
+    21300008: Spaceship 5_4
+    21300010: Spaceship 5_5
+    21300012: Spaceship 5_6
+    21300014: Spaceship 5_7
+    21300016: Spaceship 5_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Spaceship 5_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 72}
+        - {x: -78, y: 62}
+        - {x: -78, y: -72}
+        - {x: 77, y: -72}
+        - {x: 78, y: -68}
+        - {x: 78, y: 52}
+        - {x: 70, y: 72}
+    - name: Spaceship 5_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 72}
+        - {x: -78, y: 62}
+        - {x: -78, y: -72}
+        - {x: 77, y: -72}
+        - {x: 78, y: -68}
+        - {x: 78, y: 52}
+        - {x: 70, y: 72}
+    - name: Spaceship 5_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 72}
+        - {x: -78, y: 46}
+        - {x: -78, y: -72}
+        - {x: 77, y: -72}
+        - {x: 78, y: -65}
+        - {x: 78, y: 33}
+        - {x: 51, y: 72}
+    - name: Spaceship 5_3
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 72}
+        - {x: -68, y: 56}
+        - {x: -78, y: 43}
+        - {x: -78, y: -72}
+        - {x: 77, y: -72}
+        - {x: 78, y: -64}
+        - {x: 78, y: 32}
+        - {x: 51, y: 72}
+    - name: Spaceship 5_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 72}
+        - {x: -78, y: 50}
+        - {x: -78, y: -72}
+        - {x: 78, y: -72}
+        - {x: 78, y: 40}
+        - {x: 55, y: 72}
+    - name: Spaceship 5_5
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 72}
+        - {x: -78, y: 52}
+        - {x: -78, y: -72}
+        - {x: 78, y: -72}
+        - {x: 78, y: 50}
+        - {x: 68, y: 72}
+    - name: Spaceship 5_6
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 72}
+        - {x: -78, y: 35}
+        - {x: -78, y: -67}
+        - {x: -74, y: -72}
+        - {x: 78, y: -72}
+        - {x: 78, y: 59}
+        - {x: 61, y: 72}
+    - name: Spaceship 5_7
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 72}
+        - {x: -78, y: 51}
+        - {x: -78, y: -72}
+        - {x: 78, y: -72}
+        - {x: 78, y: 32}
+        - {x: 51, y: 72}
+    - name: Spaceship 5_8
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 48
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 72}
+        - {x: -78, y: 32}
+        - {x: -78, y: -72}
+        - {x: 77, y: -72}
+        - {x: 78, y: -59}
+        - {x: 78, y: 43}
+        - {x: 71, y: 72}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

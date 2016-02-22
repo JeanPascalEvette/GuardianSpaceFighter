@@ -1,0 +1,5 @@
+- Add multiple enemies
+- Add Powerups
+- Add Score System? 
+- Improve HUD
+- Allow movement (follow finger pos?)

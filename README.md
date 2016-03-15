@@ -20,6 +20,7 @@ The score system is quite an important an unusual part of the game. Each time yo
 As an example, if I score 2500 points but my previous best score was 2000 points, 500 points will be added to my total. If I scored 1500 points instead, 0 points will be added.
 The logic behind this system is that I want the player to try to replay previous levels after gaining a few powerups to try to gain more currency. The levels are designed in such a way that it is almost impossible to clear them entirely on the first run – actually it is a very good strategy to kill a few enemies to gain points and then hide in a safe corner to validate the level.
 With this system, the player is motivated to try to beat his previous best scores, but will not just farm a single level continuously to get more and more points.
+
 ![Shop - GUI](/GitHubPics/shop.PNG?raw=true)
 
 # Overworld
